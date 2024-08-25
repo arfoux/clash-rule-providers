@@ -1,4 +1,4 @@
-# Clash Rule Providers
+# Clash Rule Providers - [Engliah](https://github.com/arfoux/clash-rule-providers/blob/main/.github/README_EN)
 
 Pusat sumber daya terlengkap untuk Clash Rule Providers, menyediakan konfigurasi dan aturan yang terintegrasi dengan sistem Clash untuk mengelola trafik jaringan Anda. Dengan koleksi aturan yang selalu diperbarui, repository ini membantu Anda mengoptimalkan pengaturan proxy dan pemblokiran iklan secara efisien. Ideal untuk pengembang dan pengguna yang menginginkan kontrol penuh atas pengalaman browsing mereka.
 
@@ -7,7 +7,7 @@ Pusat sumber daya terlengkap untuk Clash Rule Providers, menyediakan konfigurasi
 - **Pengelolaan Trafik:** Menyederhanakan pengaturan proxy dan pemblokiran iklan dengan aturan yang terstruktur dengan baik.
 
 ## OISD Big (Sering dipakai)
-> Memblokir Iklan, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, dan lain-lain.
+**Memblokir Iklan, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, dan lain-lain.**
 
 Untuk menggunakan, edit `config.yaml` pada sistem Clash Anda (biasanya ada di bagian paling bawah):
 
@@ -24,7 +24,7 @@ rules:
 ```
 
 ## OISD Small
-> Memblokir Iklan, dan beberapa hal yang mengganggu
+**Memblokir Iklan, dan beberapa hal yang mengganggu**
 
 Untuk menggunakan, edit `config.yaml` pada sistem Clash anda (biasanya ada di bagian paling bawah)
 
@@ -40,5 +40,5 @@ rules:
   - RULE-SET,small,REJECT
 ```
 
-## Credit
+## Kredit
 - [OISD Blocklist - oisd.nl](https://oisd.nl/)
