@@ -15,14 +15,14 @@ To use, edit `config.yaml` in your Clash system (usually at the bottom):
 
 ```yaml
 rule-providers:
-  big:
+  clash:
     type: http
     behavior: domain
     url: [https://raw.githubusercontent.com/arfoux/clash-rule-providers/main/big.txt](https://raw.githubusercontent.com/arfoux/clash-rule-providers/main/big.txt)
     path: ./providers/rule-provider_clash.yaml
     interval: 86400
 rules:
-  - RULE-SET,big,REJECT
+  - RULE-SET,clash,REJECT
 ```
 
 ## OISD Small
@@ -32,14 +32,14 @@ To use, edit `config.yaml` in your Clash system (usually at the bottom):
 
 ```yaml
 rule-providers:
-  small:
+  clash:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/arfoux/clash-rule-providers/main/small.txt
     path: ./providers/rule-provider_clash.yaml
     interval: 86400
 rules:
-  - RULE-SET,small,REJECT
+  - RULE-SET,clash,REJECT
 ```
 
 ## Credits
