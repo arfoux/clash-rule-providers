@@ -21,3 +21,9 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automatic update
+      - name: Debugging
+        run: |
+          echo "Files in the directory:"
+          ls -l
+          echo "Git status:"
+          git status
