@@ -14,14 +14,14 @@ Untuk menggunakan, edit `config.yaml` pada sistem Clash Anda (biasanya ada di ba
 
 ```yaml
 rule-providers:
-  big:
+  clash:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/arfoux/clash-rule-providers/main/big.txt
     path: ./providers/rule-provider_clash.yaml
     interval: 86400
 rules:
-  - RULE-SET,big,REJECT
+  - RULE-SET,clash,REJECT
 ```
 
 ## OISD Small
@@ -31,14 +31,14 @@ Untuk menggunakan, edit `config.yaml` pada sistem Clash anda (biasanya ada di ba
 
 ```yaml
 rule-providers:
-  small:
+  clash:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/arfoux/clash-rule-providers/main/small.txt
     path: ./providers/rule-provider_clash.yaml
     interval: 86400
 rules:
-  - RULE-SET,small,REJECT
+  - RULE-SET,clash,REJECT
 ```
 
 ## Kredit
