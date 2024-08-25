@@ -25,8 +25,7 @@ jobs:
           
       - name: Clean up original files
         run: |
-          rm oisd_big_domainswild.txt
-          rm oisd_small_domainswild.txt
+          rm -fr oisd_big.yamle oisd_big_domainswild.txt oisd_small_domainswild.txt
           
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
