@@ -13,9 +13,9 @@ jobs:
       - name: Download AdBlock lists
         run: |
           echo "Downloading big adblock list..."
-          curl -s 'https://big.oisd.nl/domainswild' -o big.txt
+          curl -s 'https://big.oisd.nl/domainswild' -o oisd_big_domainswild.txt
           echo "Downloading small adblock list..."
-          curl -s 'https://small.oisd.nl/domainswild' -o small.txt
+          curl -s 'https://small.oisd.nl/domainswild' -o oisd_small_domainswild.txt
           git diff
           rm -fr oisd_big.yamle
       - uses: stefanzweifel/git-auto-commit-action@v4
