@@ -10,13 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
+      
       - name: Download AdBlock lists
         run: |
           echo "Downloading big adblock list..."
-          curl -s 'https://big.oisd.nl/domainswild' -o big.txt
+          curl -s 'https://big.oisd.nl/domainswild' -o oisd_big_domainswild.txt
           echo "Downloading small adblock list..."
-          curl -s 'https://small.oisd.nl/domainswild' -o small.txt
-          rm -fr oisd_big.yamle
+          curl -s 'https://small.oisd.nl/domainswild' -o oisd_small_domainswild.txt
+          
+      - name: Rename files
+        run: |
+          mv oisd_big_domainswild.txt big.txt
+          mv oisd_small_domainswild.txt small.txt
+          
+      - name: Clean up original files
+        run: |
+          rm oisd_big_domainswild.txt
+          rm oisd_small_domainswild.txt
+          
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automatic update
