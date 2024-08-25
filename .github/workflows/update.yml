@@ -1,22 +1,20 @@
-name: Update adblock source list
+name: Download adblock source list
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: 0 */12 * * *
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Download adblock lists
+      - uses: actions/checkout@main
+      - name: adblock
         run: |
-          echo "Downloading big adblock list..."
+          echo "Downloading oisd big block list..."
           curl -s 'https://big.oisd.nl/domainswild' -o big.txt
-          echo "Downloading small adblock list..."
-          curl -s 'https://small.oisd.nl/domainswild' -o small.txt
-      - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+          rm -fr oisd_big.yamle big.txt
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update source list"
+          commit_message: Automatic update
