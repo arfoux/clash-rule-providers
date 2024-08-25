@@ -23,6 +23,7 @@ rule-providers:
     interval: 86400
 rules:
   - RULE-SET,big,REJECT
+```
 
 ## OISD Small
 **Blocks ads and other annoyances.**
