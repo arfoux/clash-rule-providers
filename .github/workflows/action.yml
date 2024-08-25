@@ -13,16 +13,20 @@ jobs:
       
       - name: Download AdBlock lists
         run: |
+          # Download big adblock list
           echo "Downloading big adblock list..."
           curl -s 'https://big.oisd.nl/domainswild' -o oisd_big_domainswild.txt
           awk '/^\*\./ && !x {print "# https://github.com/arfoux/clash-rule-providers \n\npayload:"; x=1} 1' oisd_big_domainswild.txt > big.txt
-          sed -i 's/^[*]\./  - '+./g' big.txt
-          rm -fr oisd_big_domainswild.txt
+          sed -i 's/^\*\./  - \'+./g' big.txt
+          rm -f oisd_big_domainswild.txt
+
+          # Download small adblock list
           echo "Downloading small adblock list..."
           curl -s 'https://small.oisd.nl/domainswild' -o oisd_small_domainswild.txt
           awk '/^\*\./ && !x {print "# https://github.com/arfoux/clash-rule-providers \n\npayload:"; x=1} 1' oisd_small_domainswild.txt > small.txt
-          sed -i 's/^[*]\./  - '+./g' small.txt
-          rm -fr oisd_small_domainswild.txt
+          sed -i 's/^\*\./  - \'+./g' small.txt
+          rm -f oisd_small_domainswild.txt
+
           
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
