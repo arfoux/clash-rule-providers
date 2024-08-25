@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Download adblock list
+      - name: Download adblock lists
         run: |
           echo "Downloading big adblock list..."
           curl -s 'https://big.oisd.nl/domainswild' -o big.txt
           echo "Downloading small adblock list..."
           curl -s 'https://small.oisd.nl/domainswild' -o small.txt
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update source list
-          token: ${{ secrets.MY_GITHUB_TOKEN }} # Gunakan secret di sini
+          commit_message: "Update source list"
