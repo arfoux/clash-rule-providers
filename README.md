@@ -1,5 +1,5 @@
 # Clash Rule Providers
-[see English](https://github.com/arfoux/clash-rule-providers/blob/main/.github/README_EN.md)
+read [English](https://github.com/arfoux/clash-rule-providers/blob/main/.github/README_EN.md)
 
 Pusat sumber daya terlengkap untuk Clash Rule Providers, menyediakan konfigurasi dan aturan yang terintegrasi dengan sistem Clash untuk mengelola trafik jaringan Anda. Dengan koleksi aturan yang selalu diperbarui, repository ini membantu Anda mengoptimalkan pengaturan proxy dan pemblokiran iklan secara efisien. Ideal untuk pengembang dan pengguna yang menginginkan kontrol penuh atas pengalaman browsing mereka.
 
