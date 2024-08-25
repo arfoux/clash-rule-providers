@@ -10,10 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-      - name: adblock
+      - name: Download AdBlock lists
         run: |
-          echo "Downloading oisd big block list..."
+          echo "Downloading big adblock list..."
           curl -s 'https://big.oisd.nl/domainswild' -o big.txt
+          echo "Downloading small adblock list..."
+          curl -s 'https://small.oisd.nl/domainswild' -o small.txt
+          git diff
           rm -fr oisd_big.yamle
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
