@@ -19,3 +19,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update source list
+          token: ${{ secrets.MY_GITHUB_TOKEN }} # Gunakan secret di sini
