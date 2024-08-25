@@ -1,0 +1,45 @@
+name: Update adblock source list
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          # Isi dengan opsi jika diperlukan
+          # repository: ''  
+          # ref: ''  
+          # token: ''  
+          # ssh-key: ''  
+          # ssh-known-hosts: ''  
+          # ssh-strict: ''  
+          # ssh-user: ''  
+          # persist-credentials: ''  
+          # path: ''  
+          # clean: ''  
+          # filter: ''  
+          # sparse-checkout: ''  
+          # sparse-checkout-cone-mode: ''  
+          # fetch-depth: ''  
+          # fetch-tags: ''  
+          # show-progress: ''  
+          # lfs: ''  
+          # submodules: ''  
+          # set-safe-directory: ''  
+          # github-server-url: ''
+
+      - name: Download adblock lists
+        run: |
+          echo "Downloading big adblock list..."
+          curl -s 'https://big.oisd.nl/domainswild' -o big.txt
+          echo "Downloading small adblock list..."
+          curl -s 'https://small.oisd.nl/domainswild' -o small.txt
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply update
