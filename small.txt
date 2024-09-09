@@ -1,9 +1,9 @@
-# Version: 202409080107
+# Version: 202409082208
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46334
-# Last modified: 2024-09-08T01:07:20+0000
+# Entries: 46345
+# Last modified: 2024-09-08T22:08:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1412,7 +1412,6 @@ payload:
   - +.8c22d403cf.com
   - +.8cc185db46.com
   - +.8cc5ff581a88.bitsngo.net
-  - +.8coins.ru
   - +.8d1dce99ab.com
   - +.8d96fe2f01.com
   - +.8d9a34f9cc.1c2884f59e.com
@@ -1568,6 +1567,7 @@ payload:
   - +.a-ads.com
   - +.a-b-c-d.xyz
   - +.a-counter.kiev.ua
+  - +.a-da.invideo.io
   - +.a-delivery.rmbl.ws
   - +.a-mo.net
   - +.a-reporting.nytimes.com
@@ -3777,7 +3777,6 @@ payload:
   - +.adsrvmedia.net
   - +.adsrvr.org
   - +.adstarget.net
-  - +.adstargets.com
   - +.adstat.4u.pl
   - +.adstatic.kozoom.com
   - +.adstatistics.av380.net
@@ -4336,6 +4335,7 @@ payload:
   - +.aftqhamina.com
   - +.afwpc.com
   - +.afxjwyg.com
+  - +.afy.agency
   - +.agabreloomr.com
   - +.agadata.online
   - +.agaenteitor.com
@@ -9137,7 +9137,6 @@ payload:
   - +.brutalmathematics.com
   - +.bruteknack.com
   - +.brutishlylifevoicing.com
-  - +.brutvncv.top
   - +.brygella.com
   - +.bryovo.com
   - +.bs-adserver.b-cdn.net
@@ -10163,7 +10162,6 @@ payload:
   - +.cdn.unibotscdn.com
   - +.cdn.usefathom.com
   - +.cdn.vinit.cloud
-  - +.cdn.viowrel.com
   - +.cdn.wuyou.ca
   - +.cdn.yenidwa.com
   - +.cdn.zxclan.com
@@ -14632,7 +14630,6 @@ payload:
   - +.dictionarycoefficientapparently.com
   - +.dictseconal.com
   - +.dictumstortil.com
-  - +.diddledleveret.com
   - +.didmakingby.xyz
   - +.didna.io
   - +.didthere.com
@@ -15575,7 +15572,6 @@ payload:
   - +.ds7hds92.de
   - +.ds88pc0kw6cvc.cloudfront.net
   - +.dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz
-  - +.dsaewew21.fun
   - +.dsas.danawa.com
   - +.dsb.yahoo.co.jp
   - +.dsb6jelx4yhln.cloudfront.net
@@ -16119,6 +16115,7 @@ payload:
   - +.ed9605fe75.7b2ca39378.com
   - +.eda153603c.com
   - +.edaciousedaciousflaxalso.com
+  - +.edaciousedacioushandkerchiefcol.com
   - +.edaciousedaciousindexesbrief.com
   - +.edacityedacitycorrespondence.com
   - +.edacityedacityhandicraft.com
@@ -16250,7 +16247,6 @@ payload:
   - +.effacedefend.com
   - +.effaceecho.com
   - +.effacerevealing.com
-  - +.effad.ru
   - +.effateuncrisp.com
   - +.effectedscorch.com
   - +.effectivecpmcontent.com
@@ -16577,6 +16573,7 @@ payload:
   - +.engagementpolicelick.com
   - +.engagements.appsflyer.com
   - +.engagesrvr.filefactory.com
+  - +.engdhnfrc.com
   - +.engine-pmbk.ligastavok.ru
   - +.engine.aomg5bzv7.com
   - +.engine.eroge.com
@@ -17019,6 +17016,7 @@ payload:
   - +.events.attentivemobile.com
   - +.events.audiate.me
   - +.events.auth.gid.ru
+  - +.events.baselime.io
   - +.events.betterhelp.com
   - +.events.brightline.tv
   - +.events.btw.so
@@ -19353,6 +19351,7 @@ payload:
   - +.getyourtool.co
   - +.geumhuzzy.com
   - +.gevmrjok.com
+  - +.gexitesfpx.com
   - +.gfchck.xyz
   - +.gfdfegg.cn
   - +.gfdfgfgr.cn
@@ -20649,6 +20648,7 @@ payload:
   - +.harvester.hnonline.sk
   - +.harvesttheory.com
   - +.hasdarot.info
+  - +.hasdarot.vip
   - +.hasdrs.com
   - +.hash-hash-tag.com
   - +.hashbitewarfare.com
@@ -24019,6 +24019,7 @@ payload:
   - +.klonedaset.org
   - +.kloperd.com
   - +.kloynfsag.com
+  - +.klpgmansuchcesu.com
   - +.klsdee.com
   - +.kltmjevd.xyz
   - +.kmgzyug.com
@@ -24486,6 +24487,7 @@ payload:
   - +.laridaetrionfo.top
   - +.lark.pollie.dev
   - +.larkenjoyedborn.com
+  - +.larnaxhexact.click
   - +.larontale.com
   - +.larrenpicture.pro
   - +.lartaivucy.net
@@ -25055,6 +25057,7 @@ payload:
   - +.lizardslaugh.com
   - +.lizebruisiaculi.info
   - +.lizzieforcepincers.com
+  - +.ljbrbz.xyz
   - +.ljcsrrrhvu.com
   - +.ljdofz.xyz
   - +.ljnrjt.xyz
@@ -27145,6 +27148,7 @@ payload:
   - +.mlatrmae.net
   - +.mlb.did.ijinshan.com
   - +.mlbanners.misrlinks.com
+  - +.mlcbgw.xyz
   - +.mlegyu.xyz
   - +.mlhdvjv.xyz
   - +.mlicci.xyz
@@ -31314,6 +31318,7 @@ payload:
   - +.pixel.bullion.media
   - +.pixel.byspotify.com
   - +.pixel.cdnwidget.com
+  - +.pixel.clutter.com
   - +.pixel.coccoc.com
   - +.pixel.condenastdigital.com
   - +.pixel.cpex.cz
@@ -33002,6 +33007,7 @@ payload:
   - +.pw.gigazine.net
   - +.pw2ct1.asia
   - +.pwaarkac.com
+  - +.pwbffdsszgkv.com
   - +.pwbuhb.xyz
   - +.pwcegau.icu
   - +.pwddhc.xyz
@@ -34778,6 +34784,7 @@ payload:
   - +.rootzaffiliates.com
   - +.roovs.xyz
   - +.ropeanresu.com
+  - +.ropeanresultanc.com
   - +.ropebrains.com
   - +.ropedm.com
   - +.ropemoon.com
@@ -36261,6 +36268,7 @@ payload:
   - +.sexbuggishbecome.info
   - +.sexclic.com
   - +.sexcounter.com
+  - +.sexemulator.tube-sexs.com
   - +.sexfg.com
   - +.sexidude.com
   - +.sexlist.com
@@ -38019,6 +38027,7 @@ payload:
   - +.static-tracking.klaviyo.com
   - +.static.100conversions.com
   - +.static.accesstrade.vn
+  - +.static.ad.libimseti.cz
   - +.static.ad.logic-prod.viasat.io
   - +.static.adconnect.vn
   - +.static.adsfloow.net
@@ -40450,7 +40459,6 @@ payload:
   - +.toovoala.net
   - +.top-casting-termine.de
   - +.top-fwz1.mail.ru
-  - +.top-js-metrics.top.my.ua
   - +.top-offers1.com
   - +.top-performance.best
   - +.top-performance.club
@@ -42983,6 +42991,7 @@ payload:
   - +.velocitypaperwork.com
   - +.velopedseveralmef.info
   - +.velti.com
+  - +.veltoleb.com
   - +.velvetneutralunnatural.com
   - +.vemflutuartambem.com
   - +.vempozah.net
@@ -43311,6 +43320,7 @@ payload:
   - +.violinboot.com
   - +.violinmode.com
   - +.vionito.com
+  - +.viowrel.com
   - +.vip-datings.life
   - +.vip-hd-movies.xyz
   - +.vip-vip-vup.com
@@ -44458,7 +44468,6 @@ payload:
   - +.wingselastic.com
   - +.wingstoesassemble.com
   - +.winkexpandingsleigh.com
-  - +.winline.rambler.ru
   - +.winneradsmedia.com
   - +.winnersolutions.net
   - +.winningorphan.com
@@ -44710,6 +44719,7 @@ payload:
   - +.worshipstubborn.com
   - +.worstgoodnightrumble.com
   - +.worstideatum.com
+  - +.worstspotchafe.com
   - +.worthconesquadron.com
   - +.worthless-living.pro
   - +.worthlesspattern.com
@@ -46031,6 +46041,7 @@ payload:
   - +.zelrasty.net
   - +.zemydreamsauk.com
   - +.zemywwm.com
+  - +.zenal.xyz
   - +.zenam.xyz
   - +.zenaot.xyz
   - +.zencudo.co.uk
