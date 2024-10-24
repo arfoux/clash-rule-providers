@@ -1,9 +1,9 @@
-# Version: 202410231206
+# Version: 202410240007
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46372
-# Last modified: 2024-10-23T12:06:45+0000
+# Entries: 46331
+# Last modified: 2024-10-24T00:07:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -197,6 +197,7 @@ payload:
   - +.101billion.com
   - +.101com.com
   - +.101flag.ru
+  - +.1030671461.rsc.cdn77.org
   - +.103092804.com
   - +.1051912086.rsc.cdn77.org
   - +.107e9a08a8.com
@@ -256,6 +257,7 @@ payload:
   - +.130gelh8q.de
   - +.1310530397.rsc.cdn77.org
   - +.13199960a1.com
+  - +.1323818756.rsc.cdn77.org
   - +.1337x.vpnonly.site
   - +.13453765871837679316.googlegroups.com
   - +.1370065b3a.com
@@ -264,7 +266,9 @@ payload:
   - +.13c4491879.com
   - +.13e72f87ba.com
   - +.13p76nnir.de
+  - +.1401315973.rsc.cdn77.org
   - +.1437953666.rsc.cdn77.org
+  - +.1446023384.rsc.cdn77.org
   - +.148dfe140d0f3d5e.com
   - +.149549d67c.c759538eb2.com
   - +.14b173f983.com
@@ -279,6 +283,7 @@ payload:
   - +.1583263508.rsc.cdn77.org
   - +.159f70698e.e806dd6aba.com
   - +.15d113e19a.com
+  - +.15f7a5a67a.com
   - +.15x.info
   - +.16-merchant-s.com
   - +.165tchuang.com
@@ -735,6 +740,7 @@ payload:
   - +.350c2478fb.com
   - +.3517ff54c9.8a67b58b74.com
   - +.351c3606b8.77ce6b9dca.com
+  - +.3575e2d4e6.com
   - +.357dbd24e2.com
   - +.357fbe0abe.71d287479d.com
   - +.35fdef5d29.8abd062147.com
@@ -909,7 +915,6 @@ payload:
   - +.4e0622e316.com
   - +.4e26d342b8.com
   - +.4e2c896383.com
-  - +.4e5aac7959.15f7a5a67a.com
   - +.4ed196b502.com
   - +.4ed5560812.com
   - +.4ever.cc
@@ -1390,7 +1395,6 @@ payload:
   - +.88tm6.cc
   - +.893e039319.com
   - +.8961.jianbihua.com
-  - +.8992bfef5b.3575e2d4e6.com
   - +.89hdn.cn
   - +.8a40179356.com
   - +.8a7d8912cb.0ef2473ad8.com
@@ -1408,7 +1412,6 @@ payload:
   - +.8db4fde90b.com
   - +.8de5d7e235.com
   - +.8digits.com
-  - +.8dwd87c7a091b12x.com
   - +.8e85eb0e5d.c6bbab50a3.com
   - +.8f2b4c98e7.com
   - +.8f30b5f042.58c526d99b.com
@@ -1498,7 +1501,6 @@ payload:
   - +.9996777888.com
   - +.999aa666bb.com
   - +.999bb222ww.com
-  - +.999db.cn
   - +.999webdesign.com
   - +.999xx333kk.com
   - +.999xx999kk.com
@@ -1642,7 +1644,6 @@ payload:
   - +.a.hefim.site
   - +.a.herto.xyz
   - +.a.hstrck.com
-  - +.a.humro.site
   - +.a.hymin.xyz
   - +.a.jamni.xyz
   - +.a.jerkdevice.tv
@@ -2186,7 +2187,6 @@ payload:
   - +.accuracyswede.com
   - +.accuratecoal.com
   - +.accuratewistful.com
-  - +.accusationcollegeload.com
   - +.accusedstone.com
   - +.accuseraccustomed.com
   - +.accuserannouncementadulthood.com
@@ -4609,7 +4609,6 @@ payload:
   - +.ajkggo.xyz
   - +.ajkzd9h.com
   - +.ajmpeuf.com
-  - +.ajockk.xyz
   - +.ajoosheg.com
   - +.ajs.bowintelligence.com
   - +.ajs.laketrend.com
@@ -5006,7 +5005,6 @@ payload:
   - +.amazementpink.com
   - +.amazementslick.com
   - +.amazinelistrun.pro
-  - +.amazinelistrun.xyz
   - +.amazingcounters.com
   - +.amazon.wii-info.fr
   - +.amazonlogistics.jp
@@ -5069,7 +5067,6 @@ payload:
   - +.aml.valuecommerce.com
   - +.amlumineona.com
   - +.ammankeyan.com
-  - +.amnestycredentialsapple.com
   - +.amnestygall.com
   - +.amnestyhailstone.com
   - +.amnioteunteem.click
@@ -5216,6 +5213,7 @@ payload:
   - +.analytics-events.inshorts.com
   - +.analytics-fe.digital-cloud.medallia.eu
   - +.analytics-gateway.delta.dp.lightricks.com
+  - +.analytics-ingestion-production.tubitv.com
   - +.analytics-ingestion.pbpms.de
   - +.analytics-ingestion.production-public.tubi.io
   - +.analytics-ingress-global.bitmovin.com
@@ -5715,7 +5713,6 @@ payload:
   - +.anlytics.co
   - +.annaballoon.com
   - +.annaepicforgiveness.com
-  - +.annerhymenude.com
   - +.anneskyscrapergreedy.com
   - +.annesuspense.com
   - +.annexecamelot.com
@@ -6835,7 +6832,6 @@ payload:
   - +.augailou.com
   - +.augejoulser.net
   - +.aughableleade.info
-  - +.augnolru.com
   - +.augu3yhd485st.com
   - +.augurersoilure.space
   - +.august15download.com
@@ -7575,7 +7571,6 @@ payload:
   - +.bargainintake.com
   - +.bargeagency.com
   - +.bargedale.com
-  - +.barhalunkist.shop
   - +.barium.cheezdev.com
   - +.bariumlotoses.click
   - +.barkanpickee.com
@@ -8307,7 +8302,6 @@ payload:
   - +.bigosearch.com
   - +.bigrourg.net
   - +.bigsexvids.com
-  - +.bigvids.space
   - +.bihunekus.com
   - +.biiepofl.xyz
   - +.bijiangqing.com
@@ -8360,6 +8354,7 @@ payload:
   - +.bird.webitizevoice.com
   - +.birdnavy.com
   - +.birglucy.xyz
+  - +.birleeris.com
   - +.birlersbhunder.com
   - +.biroads.com
   - +.birqmiowxfh.com
@@ -8715,7 +8710,6 @@ payload:
   - +.boilerefforlessefforlessregistered.com
   - +.boilingbeetle.com
   - +.boilingloathe.com
-  - +.boilingtrust.pro
   - +.boilingviewed.com
   - +.boilslashtasted.com
   - +.boisterousemblem.com
@@ -8844,7 +8838,6 @@ payload:
   - +.botanysummarytables.com
   - +.botaptipo.net
   - +.botdetection.hbrsd.com
-  - +.botelpu.com
   - +.bothele.com
   - +.bothererune.com
   - +.botherlightensideway.com
@@ -9343,7 +9336,6 @@ payload:
   - +.burningpushing.info
   - +.burntarcherydecompose.com
   - +.burntclear.com
-  - +.burntjewelsquarterback.com
   - +.buroorgi.com
   - +.bursa.conxxx.pro
   - +.burstnet.com
@@ -10366,6 +10358,7 @@ payload:
   - +.ceteembathe.com
   - +.cetrk.com
   - +.cetusbrooder.com
+  - +.cexofira.com
   - +.cexucetum.com
   - +.ceznscormatio.com
   - +.cezoachu.net
@@ -10547,6 +10540,7 @@ payload:
   - +.cheebetoops.com
   - +.cheebilaix.com
   - +.cheecmou.com
+  - +.cheedroumsoaphu.net
   - +.cheekysleepyreproof.com
   - +.cheeradvise.com
   - +.cheerfuldisingenuous.com
@@ -11205,7 +11199,6 @@ payload:
   - +.cmacnumpcaoe.com
   - +.cmadserver.de
   - +.cmap.alibaba.com
-  - +.cmbmtpjm.xyz
   - +.cmclean.club
   - +.cmcxmh.com
   - +.cmdcdacq.xyz
@@ -11232,6 +11225,7 @@ payload:
   - +.cnbd1.appmobile.cn
   - +.cndcfvmc.com
   - +.cndynza.click
+  - +.cnegrxyu.com
   - +.cnemisfugara.com
   - +.cngcpy.com
   - +.cnnected.org
@@ -11303,6 +11297,7 @@ payload:
   - +.cod.tandartspraktijkjagtkade.nl
   - +.code.acstat.com
   - +.code.ainsyndication.com
+  - +.code.alpin.de
   - +.code.bergsteigen.com
   - +.code.ditiezu.net
   - +.code.r5hsid.ru
@@ -12137,7 +12132,6 @@ payload:
   - +.cpa.aomg5bzv7.com
   - +.cpa3iqcp.de
   - +.cpabeyond.com
-  - +.cpaclicks.com
   - +.cpaconvtrk.net
   - +.cpacrack.com
   - +.cpactions.com
@@ -12150,7 +12144,6 @@ payload:
   - +.cpcvabi.com
   - +.cpddgcr.xyz
   - +.cpdronhu.xyz
-  - +.cpgou.cn
   - +.cpkxahje.xyz
   - +.cplayer.pw
   - +.cpm-ad.com
@@ -12632,6 +12625,7 @@ payload:
   - +.cvbziwyunddq.com
   - +.cvgrszkg.xyz
   - +.cvk.supklik.com
+  - +.cvmuia.xyz
   - +.cvnxetmq.xyz
   - +.cvudqzoa.xyz
   - +.cvujac.xyz
@@ -12670,7 +12664,6 @@ payload:
   - +.cydippeespy.com
   - +.cyeqeewyr.com
   - +.cygnus.com
-  - +.cylindrical-form.com
   - +.cylnkee.com
   - +.cyneburg-yam.com
   - +.cynem.xyz
@@ -13937,7 +13930,6 @@ payload:
   - +.daringsupport.com
   - +.dariolunus.com
   - +.darkandlight.ru
-  - +.darkdepthdriller.top
   - +.darkercoincidentsword.com
   - +.darkerillegimateillegimateshade.com
   - +.darkerprimevaldiffer.com
@@ -14265,9 +14257,7 @@ payload:
   - +.defacebunny.com
   - +.defaultspurtlonely.com
   - +.defeatedadmirabledivision.com
-  - +.defeatpercharges.com
   - +.defeature.xyz
-  - +.defectivedress.com
   - +.defenceblake.com
   - +.defendantlucrative.com
   - +.defenselessweather.com
@@ -14569,7 +14559,6 @@ payload:
   - +.dfanalytics.dealerfire.com
   - +.dfapvmql-q.global.ssl.fastly.net
   - +.dfc1a3c2c3.8de4cb9cb7.com
-  - +.dfcf515795.com
   - +.dfck9uqiatqhh.cloudfront.net
   - +.dfd55780d6.com
   - +.dfdgfruitie.xyz
@@ -14798,7 +14787,6 @@ payload:
   - +.disappointingbeef.com
   - +.disappointingupdatependulum.com
   - +.disapprovalpulpdiscourteous.com
-  - +.disarmbookkeeper.com
   - +.disastrousdetestablegoody.com
   - +.disbeliefenvelopemeow.com
   - +.disccompose.com
@@ -16139,7 +16127,6 @@ payload:
   - +.edthechildrenandthe.info
   - +.edtheparllase.com
   - +.edtotigainare.info
-  - +.edttfiou.com
   - +.edttmar.com
   - +.edu-lib.com
   - +.edua29146y.com
@@ -16323,6 +16310,7 @@ payload:
   - +.ekxyrwvoegb.xyz
   - +.ekykse.xyz
   - +.ekzzed.icu
+  - +.eladove.com
   - +.elasticad.net
   - +.elasticchange.com
   - +.elasticstuffyhideous.com
@@ -16428,7 +16416,6 @@ payload:
   - +.emergedmassacre.com
   - +.emigrantmovements.com
   - +.emigressetae.com
-  - +.emitlabelreproduction.com
   - +.emitmagnitude.com
   - +.emizkno.cn
   - +.emjpbua.com
@@ -17484,7 +17471,6 @@ payload:
   - +.faised.com
   - +.faishoar.com
   - +.faithaiy.com
-  - +.faithfullyprotectionundo.com
   - +.faithfullywringfriendship.com
   - +.faiverty-station.com
   - +.faiwastauk.com
@@ -17531,7 +17517,6 @@ payload:
   - +.fangatrocious.com
   - +.fangsblotinstantly.com
   - +.fangsswissmeddling.com
-  - +.fanjs.top
   - +.fansign.streamray.com
   - +.fantastic-height.com
   - +.fantasticaubergine.com
@@ -18156,7 +18141,6 @@ payload:
   - +.flat-ads.com
   - +.flatepicbats.com
   - +.flatteringscanty.com
-  - +.flatterpopulum.click
   - +.flaviusemulsor.com
   - +.flavourforgave.com
   - +.flawerosion.com
@@ -18244,7 +18228,6 @@ payload:
   - +.fluingdulotic.com
   - +.flukepopped.com
   - +.flungsnibble.com
-  - +.fluoricfatback.com
   - +.fluqualificationlarge.com
   - +.flurry.cachefly.net
   - +.flurry.com
@@ -18253,7 +18236,6 @@ payload:
   - +.flushafterwardinteger.com
   - +.flushconventional.com
   - +.flushedheartedcollect.com
-  - +.flushgenuinelydominion.com
   - +.flushoriginring.com
   - +.flux.effiliation.com
   - +.fluxads.com
@@ -18337,7 +18319,6 @@ payload:
   - +.followmalnutritionjeanne.com
   - +.follripup.com
   - +.follyeffacegrieve.com
-  - +.folmetor.com
   - +.folseghvethecit.com
   - +.fomfwrpfklckhr.com
   - +.fondfelonybowl.com
@@ -18833,7 +18814,6 @@ payload:
   - +.fwealjdmeptu.com
   - +.fwelbbhdlxmn.com
   - +.fwhhcpj.xyz
-  - +.fwsoviw.com
   - +.fwtrck.com
   - +.fx.gtop.ro
   - +.fx9.freepornoboss.com
@@ -19471,6 +19451,7 @@ payload:
   - +.gjjvjbe.com
   - +.gjonfartyb.com
   - +.gjrhqyc.com
+  - +.gjskjzejk.com
   - +.gjtrack.uc.cn
   - +.gjwos.org
   - +.gk1.582582.com
@@ -21525,6 +21506,7 @@ payload:
   - +.humplollipopsalts.com
   - +.humraaz.com
   - +.humremjobvipfun.com
+  - +.humro.site
   - +.humsoolt.net
   - +.hunchbackrussiancalculated.com
   - +.hunchmotherhooddefine.com
@@ -21609,6 +21591,7 @@ payload:
   - +.hybrid-prd.ad-prd.s.joyn.de
   - +.hybrid.ai
   - +.hybrid.ru
+  - +.hybubehxmv.com
   - +.hycantyoubelik.com
   - +.hydra.aomg5bzv7.com
   - +.hydramedia.com
@@ -21824,6 +21807,7 @@ payload:
   - +.ientent.stre4mplay.one
   - +.ientent.streampiay.fun
   - +.ientrymail.com
+  - +.ieqmxymlyz.com
   - +.ietyofedinj89yewtburgh.com
   - +.iewtwo.xyz
   - +.iezxmddndn.com
@@ -22129,7 +22113,6 @@ payload:
   - +.improving.duckduckgo.com
   - +.improving.wuzhuiso.com
   - +.improviseprofane.com
-  - +.impulsefelicity.com
   - +.impulselikeness.com
   - +.impureattirebaking.com
   - +.imstks.com
@@ -22289,7 +22272,6 @@ payload:
   - +.influxtravellingpublicly.com
   - +.info.kinoclub77.ru
   - +.infocenter.support
-  - +.infodonorbranch.com
   - +.infohimatalk77.net
   - +.infokz.com
   - +.infolinks.com
@@ -22401,7 +22383,6 @@ payload:
   - +.inrhyhorntor.com
   - +.inringtone.com
   - +.inrotomr.com
-  - +.inrqqddrnqkk.xyz
   - +.ins.connatix.com
   - +.insanetrack.com
   - +.insanityquietlyviolent.com
@@ -22644,6 +22625,7 @@ payload:
   - +.iot-in-logser.realme.com
   - +.iot-logser.realme.com
   - +.iotgateway.aomg5bzv7.com
+  - +.iouvxlio.top
   - +.iowanseck.com
   - +.ioxffew.com
   - +.ioykmxa.icu
@@ -22872,7 +22854,6 @@ payload:
   - +.iv-akuifxp.love
   - +.iv.hautboyhellen.com
   - +.ivanvillager.com
-  - +.ivbgpax.cn
   - +.ivedmanyyea.org
   - +.ivemjdir-g.top
   - +.ivesofefinegold.info
@@ -23205,6 +23186,7 @@ payload:
   - +.jidfdaxi.com
   - +.jieshimaya.xyz
   - +.jifflebreasts.com
+  - +.jiggleowk.com
   - +.jighucme.com
   - +.jiglikeshilla.com
   - +.jignairy.com
@@ -23248,7 +23230,6 @@ payload:
   - +.jjtnadbcbovqarv.xyz
   - +.jjvzqjh.xyz
   - +.jk4lmrf2.de
-  - +.jkdzimao.com
   - +.jkha742.xyz
   - +.jklpy.com
   - +.jkolp.com
@@ -23612,6 +23593,7 @@ payload:
   - +.kabakamarbles.top
   - +.kabakastopsy.com
   - +.kabarnaira.com
+  - +.kacukrunitsoo.net
   - +.kadam.net
   - +.kadrawheerga.com
   - +.kadxin.net
@@ -23912,7 +23894,6 @@ payload:
   - +.kjeopjksbcy.com
   - +.kjeqga.xyz
   - +.kjipko.xyz
-  - +.kjjbgclciiay.xyz
   - +.kjjjusb.xyz
   - +.kjkulnpfdhn.com
   - +.kjrspnbf.xyz
@@ -23974,7 +23955,6 @@ payload:
   - +.kmspicoofficial.com
   - +.kmyunderthf.info
   - +.knackalida.shop
-  - +.knaplpdmbrbi.com
   - +.knappedmurshid.com
   - +.kncecafvdeu.info
   - +.kncrya.xyz
@@ -24480,7 +24460,6 @@ payload:
   - +.laughedrevealedpears.com
   - +.laughingrecordinggossipy.com
   - +.laughteroccasionallywarp.com
-  - +.lauglaph.net
   - +.laugoust.com
   - +.lauhefoo.com
   - +.lauhoosh.net
@@ -24686,6 +24665,7 @@ payload:
   - +.lephaush.net
   - +.lepiotaspectry.com
   - +.lepodownload.mediatek.com
+  - +.lepomisbunched.com
   - +.lernodydenknow.info
   - +.leroaboy.net
   - +.leroj.elitegol.tv
@@ -26157,7 +26137,6 @@ payload:
   - +.mantasarctium.top
   - +.manteelclanned.com
   - +.manualbleedingand.com
-  - +.manualdin.com
   - +.manualquiet.com
   - +.manufacturerscornful.com
   - +.manureinforms.com
@@ -26634,7 +26613,6 @@ payload:
   - +.merchant-center-analytics.goog
   - +.merchenta.com
   - +.mercifulsurveysurpass.com
-  - +.mercuras.com
   - +.mercury.coupang.com
   - +.mercuryprettyapplication.com
   - +.mercurysugarconsulting.com
@@ -27086,7 +27064,6 @@ payload:
   - +.mm.wxc.cc
   - +.mmadsgadget.com
   - +.mmchoicehaving.com
-  - +.mmczmfgpq.com
   - +.mme.zedcdn.me
   - +.mmentorapp.com
   - +.mmi.bemobile.ua
@@ -27326,7 +27303,6 @@ payload:
   - +.monkeysloveyou.com
   - +.monkquestion.com
   - +.monksfoodcremate.com
-  - +.monksmilestonewill.com
   - +.monnionyusdrum.com
   - +.monopolydecreaserelationship.com
   - +.monsoonlassi.com
@@ -27335,7 +27311,6 @@ payload:
   - +.montelena-rcv.auction.co.kr
   - +.montelena-rcv.gmarket.co.kr
   - +.montelena.auction.co.kr
-  - +.monthcurrencybeam.com
   - +.monthlypatient.com
   - +.monthsappear.com
   - +.monthsshefacility.com
@@ -27373,6 +27348,7 @@ payload:
   - +.mopiwhoisqui.com
   - +.mopub-win-us-east.bksn.se
   - +.mopub.com
+  - +.moqdy.icu
   - +.moqsxdpx.xyz
   - +.moradu.com
   - +.moral-enthusiasm.pro
@@ -27615,7 +27591,6 @@ payload:
   - +.muddedcarboys.com
   - +.muddiedbubales.com
   - +.muddyharold.com
-  - +.muddyprocedure.com
   - +.muddyquote.pro
   - +.mudfishatabals.com
   - +.muellfrei.de
@@ -27641,7 +27616,6 @@ payload:
   - +.mulsouloobsaiz.xyz
   - +.multieser.info
   - +.multimater.com
-  - +.multiplydiscourage.com
   - +.multiplyinvisible.com
   - +.multisetup.pro
   - +.multiupload.com
@@ -28122,7 +28096,6 @@ payload:
   - +.neesihoothak.net
   - +.neess105.top
   - +.neetoutoo.com
-  - +.neexzbibw.com
   - +.neezausu.net
   - +.nefdcnmvbt.com
   - +.negatesupervisor.com
@@ -28359,6 +28332,7 @@ payload:
   - +.ngnxyub.cn
   - +.nhbprf.xyz
   - +.nheappyrincen.info
+  - +.nhgpidvhdzm.vip
   - +.nhisdhiltewasver.com
   - +.nhjnkis.com
   - +.nhopaepzrh.com
@@ -28438,7 +28412,6 @@ payload:
   - +.nishoagn.com
   - +.nismscoldnesfspu.com
   - +.nitohptzo.com
-  - +.nitqbanrbcv.xyz
   - +.nitridslah.com
   - +.nitroclicks.com
   - +.nitrogendetestable.com
@@ -28622,6 +28595,7 @@ payload:
   - +.notes-analytics-events.apple.com
   - +.notesbook.in
   - +.notesrumba.com
+  - +.notherlicorne.com
   - +.nothingpetwring.com
   - +.nothycantyo.com
   - +.noticebroughtcloud.com
@@ -29313,7 +29287,6 @@ payload:
   - +.ointmentapathetic.com
   - +.ointmentbarely.com
   - +.oipzyrzffum.ovh
-  - +.oiu09.cn
   - +.oiuuuc.xyz
   - +.oiya.ru
   - +.oiycak.com
@@ -29383,6 +29356,7 @@ payload:
   - +.olineman.pro
   - +.olitoedr.com
   - +.olitoryhunter.com
+  - +.olivecough.com
   - +.olivedinflats.space
   - +.olivefail.com
   - +.olivefamine.com
@@ -29767,6 +29741,7 @@ payload:
   - +.oqpahlskaqal.com
   - +.oqqwrjanxy.com
   - +.oqsttfy.com
+  - +.oquftwsabsep.xyz
   - +.oqvzndovoug.com
   - +.or.alpieutieboy.com
   - +.orabsola.com
@@ -29887,7 +29862,6 @@ payload:
   - +.ostrich.pergaudiaadastra.de
   - +.ostrich.scd-rv.com.au
   - +.ostrichmustardalloy.com
-  - +.osujcq.xyz
   - +.oswowg.xyz
   - +.osyqldvshkc.xyz
   - +.oszlnxwqlc.com
@@ -30213,7 +30187,6 @@ payload:
   - +.ozongees.com
   - +.ozykeor.icu
   - +.ozznarazdtz.com
-  - +.ozzvjbdqcw.com
   - +.p-analytics.life
   - +.p-behacdn.ksmobile.net
   - +.p-events.ivideosmart.com
@@ -30891,6 +30864,7 @@ payload:
   - +.pessimisticconductiveworrying.com
   - +.pessimisticextra.com
   - +.pesterclinkaltogether.com
+  - +.pesterolive.com
   - +.pesteroverwork.com
   - +.pesterunusual.com
   - +.pestholy.com
@@ -30920,6 +30894,7 @@ payload:
   - +.pflexads.com
   - +.pfmmzmdba.com
   - +.pg-ad-b1.nosdn.127.net
+  - +.pg2bk.icu
   - +.pgapi.ksmobile.com
   - +.pgazaz.icu
   - +.pgcciax.icu
@@ -32498,7 +32473,6 @@ payload:
   - +.psougloo.com
   - +.psougrie.com
   - +.psoumoalt.com
-  - +.psounsoo.xyz
   - +.psouzoub.com
   - +.psozoult.net
   - +.psp.aomg5bzv7.com
@@ -32934,7 +32908,6 @@ payload:
   - +.pvnzrr.xyz
   - +.pvpdbth.xyz
   - +.pvrtx.net
-  - +.pvsxzlb.com
   - +.pvtqllwgu.com
   - +.pvtypsgueyqey.com
   - +.pvxvazbehd.com
@@ -32984,7 +32957,6 @@ payload:
   - +.pxtjfmv.xyz
   - +.pxxnejx.xyz
   - +.pxzrlf.xyz
-  - +.pyewdnerftym.com
   - +.pyknrhm5c.com
   - +.pylon.micstatic.com
   - +.pyrincelewasgild.info
@@ -33058,6 +33030,7 @@ payload:
   - +.qcaagekddoic.com
   - +.qccoccocmedia.vn
   - +.qceatqoqwpza.com
+  - +.qcerujcajnme.com
   - +.qcohkm.xyz
   - +.qcotzalsettiv.com
   - +.qcsjmidihe.com
@@ -33130,7 +33103,6 @@ payload:
   - +.qivaiw.com
   - +.qiyegongqiu1.qiyegongqiu.com
   - +.qizjkwx9klim.com
-  - +.qjdlivr.com
   - +.qjmlmaffrqj.com
   - +.qjoges.xyz
   - +.qjparxwc.com
@@ -33387,7 +33359,6 @@ payload:
   - +.qxzlmzt.xyz
   - +.qybloikdmd.com
   - +.qydgdko.com
-  - +.qydrwhhk.xyz
   - +.qykxyax.com
   - +.qylyknxkeep.com
   - +.qymkbmjssadw.top
@@ -33670,6 +33641,7 @@ payload:
   - +.rc.rc.hu
   - +.rc.rootclick.com
   - +.rc.vtex.com.br
+  - +.rcdwhp.xyz
   - +.rcerrohatfad.com
   - +.rcf3occ8.de
   - +.rchkup.com
@@ -34329,6 +34301,7 @@ payload:
   - +.resultulterior.com
   - +.resumeconcurrence.com
   - +.retagro.com
+  - +.retail-client-events-service.internal.salsify.com
   - +.retaineraerialcommonly.com
   - +.retaliatepoint.com
   - +.retardpreparationsalways.com
@@ -34818,7 +34791,6 @@ payload:
   - +.rouwhapt.com
   - +.rovion.com
   - +.rovno.xyz
-  - +.rowingzipper.com
   - +.rowlnk.com
   - +.roxfrv.xyz
   - +.roxr.net
@@ -35198,9 +35170,9 @@ payload:
   - +.ruthwoof.com
   - +.ruuaqkw.com
   - +.ruwertur.com
+  - +.ruxmkiqkasw.com
   - +.ruzotchaufu.xyz
   - +.rva.outbrain.com
-  - +.rvbiocn.cn
   - +.rvetreyu.net
   - +.rvfrm2005.com
   - +.rvioyjme.com
@@ -35958,7 +35930,6 @@ payload:
   - +.seegraufah.com
   - +.seekmymatch.com
   - +.seekoflol.com
-  - +.seeluphill.shop
   - +.seemingverticallyheartbreak.com
   - +.seemoraldisobey.com
   - +.seemreflexdisable.com
@@ -36012,7 +35983,6 @@ payload:
   - +.selphiu.com
   - +.selwrite.com
   - +.semblanceindulgebellamy.com
-  - +.semeeclots.top
   - +.semenaonline.sk
   - +.semhgk.xyz
   - +.semi-cod.nnmclub.ch
@@ -36185,7 +36155,6 @@ payload:
   - +.servingcdn.net
   - +.servingserved.com
   - +.servingsurroundworldwide.com
-  - +.servo-report.keepstreams.com
   - +.servote.de
   - +.servsserverz.com
   - +.servtraff97.com
@@ -36420,6 +36389,7 @@ payload:
   - +.shestrozo.com
   - +.shexawhy.net
   - +.shfsdvc.com
+  - +.shgcdn3.com
   - +.shhh.lol
   - +.shiaflsteaw.com
   - +.shibaglybu.com
@@ -36544,7 +36514,6 @@ payload:
   - +.shriftskats.com
   - +.shrillbighearted.com
   - +.shrillcherriesinstant.com
-  - +.shrimpexclusive.com
   - +.shrimpgenerator.com
   - +.shrivelhorizonentrust.com
   - +.shrojxouelny.xyz
@@ -36570,7 +36539,6 @@ payload:
   - +.shuocyw.cn
   - +.shusacem.net
   - +.shushagri.net
-  - +.shutdownpious.com
   - +.shutesaroph.com
   - +.shuttersurveyednaive.com
   - +.shuttleprivileged.com
@@ -37073,6 +37041,7 @@ payload:
   - +.snsv.ru
   - +.sntjim.com
   - +.snubjav12.fun
+  - +.snueirk.icu
   - +.snuffdemisedilemma.com
   - +.snugglethesheep.com
   - +.snugwednesday.com
@@ -38634,7 +38603,6 @@ payload:
   - +.stunsbarbola.website
   - +.stunthypocrisy.com
   - +.stuntoffer.com
-  - +.stupagebang.com
   - +.stupid-luck.com
   - +.stupiditydecision.com
   - +.stupidityficklecapability.com
@@ -38998,6 +38966,7 @@ payload:
   - +.swoonseneid.com
   - +.swoopanomalousgardener.com
   - +.swoopkennethsly.com
+  - +.swopsalane.com
   - +.swordanatomy.com
   - +.swordbloatgranny.com
   - +.swordeast.com
@@ -39129,7 +39098,6 @@ payload:
   - +.szptp.cn
   - +.szpwh.cn
   - +.szpxp.cn
-  - +.szpzk.cn
   - +.szqxvo.com
   - +.szzhwaaxhnnrx.com
   - +.t-ak.hulu.com
@@ -39438,7 +39406,6 @@ payload:
   - +.tapsell.ir
   - +.tapsense.com
   - +.tapwhigwy.com
-  - +.tarafnagging.com
   - +.tarantula.emotionalbaking.com
   - +.tarantula.searchbox.tech
   - +.tarantula.tuxedo.media
@@ -39613,7 +39580,6 @@ payload:
   - +.teefookugoo.top
   - +.teefuthe.com
   - +.teeglimu.com
-  - +.teemingmutts.shop
   - +.teemmachinerydiffer.com
   - +.teemooge.net
   - +.teenagerapostrophe.com
@@ -40171,7 +40137,6 @@ payload:
   - +.tingisincused.com
   - +.tinkerwidth.com
   - +.tinkleswearfranz.com
-  - +.tinkletemporalbuy.com
   - +.tintedparticular.com
   - +.tintersloggish.com
   - +.tintprestigecrumble.com
@@ -41533,7 +41498,6 @@ payload:
   - +.troutgorgets.com
   - +.trovemanured.guru
   - +.trowanesteeler.com
-  - +.trowthsrandia.shop
   - +.trpool.org
   - +.trpop.xyz
   - +.trrmmxjst.com
@@ -41696,7 +41660,6 @@ payload:
   - +.tuna.ajaymantri.com
   - +.tuna.purplespider.com
   - +.tunatastesentertained.com
-  - +.tunedecided.com
   - +.tunefatigueclarify.com
   - +.tunein.adswizz.com
   - +.tuneshave.com
@@ -41988,7 +41951,6 @@ payload:
   - +.udsahkln.xyz
   - +.udswai.xyz
   - +.uduxztwig.com
-  - +.udykkl.cn
   - +.udzpel.com
   - +.uebipacy.xyz
   - +.uebohjhh.xyz
@@ -42423,6 +42385,7 @@ payload:
   - +.upeatunzone.com
   - +.upgastlyr.com
   - +.upgliscorom.com
+  - +.upgoawqlghwh.com
   - +.upgulpinon.com
   - +.uphcrjth.xyz
   - +.uphorter.com
@@ -42579,7 +42542,6 @@ payload:
   - +.uslphoctxrpwry.com
   - +.uslsxe.com
   - +.usltmus.cn
-  - +.usmgoxe.cn
   - +.usninicsooey.com
   - +.usonar.jp
   - +.usounoul.com
@@ -42638,6 +42600,7 @@ payload:
   - +.utokapa.com
   - +.utopia-privacy.com
   - +.utoumine.net
+  - +.utrdiwdcmhrfon.com
   - +.utrius.com
   - +.uts.auction.co.kr
   - +.uts.gmarket.co.kr
@@ -42870,6 +42833,7 @@ payload:
   - +.vatzxd.xyz
   - +.vaugroar.com
   - +.vaukoloon.net
+  - +.vauloops.net
   - +.vaultmultiple.com
   - +.vaultwrite.com
   - +.vavcashpop.com
@@ -42942,7 +42906,6 @@ payload:
   - +.vehiclepatsyacacia.com
   - +.vehosw.com
   - +.veih8bee.xhcdn.com
-  - +.veildiscotacky.com
   - +.veille-referencement.com
   - +.veilsuccessfully.com
   - +.veincartrigeforceful.com
@@ -43062,6 +43025,7 @@ payload:
   - +.vgxbpf.xyz
   - +.vgzytn.xyz
   - +.vhdbohe.com
+  - +.vhducnso.com
   - +.vheoggjiqaz.com
   - +.vhneajupavrb.com
   - +.vhngny-cfwm.life
@@ -43140,17 +43104,14 @@ payload:
   - +.vidox.net
   - +.vidrugnirtop.net
   - +.vids-fun.online
-  - +.vidsbig.online
   - +.vidschannel.online
   - +.vidscriptshark.com
   - +.vidsfull.online
   - +.vidsfull.space
   - +.vidshouse.online
   - +.vidsmoon.space
-  - +.vidsocean.online
   - +.vidsplanet.online
   - +.vidsplanet.space
-  - +.vidsreal.space
   - +.vidustal.com
   - +.vieon-tracking.vieon.vn
   - +.vietbuzzad.com
@@ -43461,7 +43422,6 @@ payload:
   - +.volumesundue.com
   - +.voluntarilydale.com
   - +.voluntarilylease.com
-  - +.voluntarilystink.com
   - +.volunteerbrash.com
   - +.voluumtracker.com
   - +.voluumtrk.com
@@ -43630,7 +43590,6 @@ payload:
   - +.vy.withsaynapa.com
   - +.vyfrxuytzn.com
   - +.vyocqq.com
-  - +.vypywufmbsp.com
   - +.vz.7vid.net
   - +.vz.berthsgigget.com
   - +.vzeakntvvkc.one
@@ -44207,6 +44166,7 @@ payload:
   - +.whestail.com
   - +.whetin.com
   - +.whfpbc.99.com.cn
+  - +.whhasymvi.com
   - +.whiboubs.com
   - +.whiceega.com
   - +.whichcandiedhandgrip.com
@@ -44428,7 +44388,6 @@ payload:
   - +.win.staticstuff.net
   - +.win5.aomg5bzv7.com
   - +.winbestprizess.info
-  - +.winbuyer.com
   - +.windfallcleaningarrange.com
   - +.windindelicateexclusive.com
   - +.windingnegotiation.com
@@ -44637,6 +44596,7 @@ payload:
   - +.woodejou.net
   - +.woodenguardsheartburn.com
   - +.woodhenmils.com
+  - +.woodlandanyone.com
   - +.woodlandsmonthlyelated.com
   - +.woodlotrubato.com
   - +.woodpecker.binario11.de
@@ -44965,6 +44925,7 @@ payload:
   - +.xapads.com
   - +.xaprio.net
   - +.xatech.com
+  - +.xavitithnga.buzz
   - +.xawlop.com
   - +.xaxoro.com
   - +.xaxrtiahkft.com
@@ -45548,7 +45509,6 @@ payload:
   - +.yabun.club
   - +.yacurlik.com
   - +.yads.yahoo.co.jp
-  - +.yafmqibivbuu.com
   - +.yahuu.org
   - +.yak.auclantis.com
   - +.yak.flutterblog.net
@@ -46349,7 +46309,6 @@ payload:
   - +.zwnhufcwhaw.com
   - +.zwnoeqzsuz.com
   - +.zwsxsqp.com
-  - +.zwuqvpi.com
   - +.zwyjpyocwv.com
   - +.zwzdjb.xyz
   - +.zx.docin.com
