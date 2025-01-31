@@ -1,9 +1,9 @@
-# Version: 202501300610
+# Version: 202501301811
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44011
-# Last modified: 2025-01-30T06:10:14+0000
+# Entries: 44009
+# Last modified: 2025-01-30T18:11:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -56,7 +56,6 @@ payload:
   - +.03eea1b6dd.com
   - +.03p.info
   - +.04-f-bmf.com
-  - +.0438336acf.0a74314cd1.com
   - +.04424170.xyz
   - +.044da016b3.com
   - +.045fef1509.com
@@ -99,6 +98,7 @@ payload:
   - +.09zyy.com
   - +.0a0d-d3l1vr.b-cdn.net
   - +.0a22eeac91.e46ece0a18.com
+  - +.0a74314cd1.com
   - +.0ab8344566.51cd57d70c.com
   - +.0af2a962b0102942d9a7df351b20be55.com
   - +.0afc4c07a9.9fbdc30642.com
@@ -1089,6 +1089,7 @@ payload:
   - +.56bfc388bf12.com
   - +.56c30cd3c4.0d0e65883b.com
   - +.56rt2692.de
+  - +.5707f9766c.com
   - +.573569djd.com
   - +.574ae48fe5.com
   - +.57573zubo36833.com
@@ -8526,7 +8527,6 @@ payload:
   - +.bnrdom.com
   - +.bnrs.esexa.online
   - +.bnrs.it
-  - +.bnrs.manrec.cc
   - +.bnrs.shemrec.cc
   - +.bnrsis.com
   - +.bnrslks.com
@@ -15771,7 +15771,6 @@ payload:
   - +.edvfwlacluo.com
   - +.edwmpt.com
   - +.ee.sportacentrs.com
-  - +.ee2eb00cc5.5707f9766c.com
   - +.ee694ce73a.c11e6856d0.com
   - +.ee768d2e27.0f9be2e1ef.com
   - +.eeaczcf.icu
@@ -25098,6 +25097,7 @@ payload:
   - +.manomincasaque.com
   - +.manompas.com
   - +.manorfunctions.com
+  - +.manrec.cc
   - +.manrootarbota.com
   - +.mansfieldspurtvan.com
   - +.mansostowce.com
@@ -26704,6 +26704,7 @@ payload:
   - +.namtofe.com
   - +.nan0cns.com
   - +.nan46ysangt28eec.com
+  - +.nanai-clw.com
   - +.nanborderrocket.com
   - +.nancontrast.com
   - +.nandtheathema.info
@@ -26791,7 +26792,6 @@ payload:
   - +.nbcollect.kugou.com
   - +.nbcollectretry.kugou.com
   - +.nbmramf.de
-  - +.nbnrsa.manrec.cc
   - +.nboclympics.com
   - +.nbottkauyy.com
   - +.nbsdk-baichuan.taobao.com
@@ -28521,7 +28521,6 @@ payload:
   - +.otherofherlittle.info
   - +.othersides.top
   - +.otherwiseassurednessloaf.com
-  - +.otimiyk.top
   - +.otingolston.com
   - +.otisephie.com
   - +.otjawzdugg.com
@@ -30724,7 +30723,6 @@ payload:
   - +.projectwonderful.com
   - +.prolatecyclus.com
   - +.proll.esexa.online
-  - +.proll.manrec.cc
   - +.proll.shemrec.cc
   - +.prologuerussialavender.com
   - +.prologuetwinsmolecule.com
@@ -31176,7 +31174,6 @@ payload:
   - +.punctual-window.com
   - +.punctualflopsubquery.com
   - +.pundr.esexa.online
-  - +.pundr.manrec.cc
   - +.pundr.shemrec.cc
   - +.pungentsmartlyhoarse.com
   - +.punishgrantedvirus.com
@@ -35064,6 +35061,7 @@ payload:
   - +.skymedia7.me
   - +.skymobi.agency
   - +.skyscraperearnings.com
+  - +.skyscrapertowel.com
   - +.skytraf.xyz
   - +.sl-h-statistics-ch-1.storeland.ru
   - +.sl.elinvarpayola.com
