@@ -1,9 +1,9 @@
-# Version: 202504141208
+# Version: 202504150036
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43912
-# Last modified: 2025-04-14T12:08:37+0000
+# Entries: 43939
+# Last modified: 2025-04-15T00:36:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -298,7 +298,6 @@ payload:
   - +.1704598c25.com
   - +.17180d187e.com
   - +.17199874.xyz
-  - +.171c856581.com
   - +.1736253261.rsc.cdn77.org
   - +.173726e958.com
   - +.177o.com
@@ -868,7 +867,6 @@ payload:
   - +.43ors1osh.com
   - +.43sjmq3hg.com
   - +.43t53c9e.de
-  - +.44216f3fdf.com
   - +.444.bussyclub.com
   - +.444.bussyhunter.com
   - +.444.thebussybandit.com
@@ -942,6 +940,7 @@ payload:
   - +.4ffecd1ee4.com
   - +.4fs3r.icu
   - +.4g0b1inr.de
+  - +.4gforkh4.icu
   - +.4hfchest5kdnfnut.com
   - +.4iazoa.xyz
   - +.4ir17.icu
@@ -4450,6 +4449,7 @@ payload:
   - +.ai.bioon.com
   - +.ai.thanhnien.vn
   - +.aiactiv.io
+  - +.aiauqmtsvqoxho.com
   - +.aibseensoo.net
   - +.aibsgc.com
   - +.aibvlvplqwkq.com
@@ -4532,6 +4532,7 @@ payload:
   - +.aiwlxmy.com
   - +.aiwutgxp.love
   - +.aixcdn.com
+  - +.aixukiwaikra.com
   - +.aixuntupian.oss-cn-hongkong.aliyuncs.com
   - +.aj1047.online
   - +.aj1070.online
@@ -4659,6 +4660,7 @@ payload:
   - +.alclick.com
   - +.alcoholcheckoccur.com
   - +.alcroconawa.com
+  - +.alcyonchocard.com
   - +.aldik.com
   - +.aldo061.free.fr
   - +.aldo063.free.fr
@@ -7046,6 +7048,7 @@ payload:
   - +.b.cinvetica.com
   - +.b.clc2l.com
   - +.b.clictoload.com
+  - +.b.clipkit.co
   - +.b.ddestiny.ru
   - +.b.filexan.com
   - +.b.frida.vse42.ru
@@ -7094,7 +7097,6 @@ payload:
   - +.b21379380e.com
   - +.b233765bb4.a480c95b8f.com
   - +.b235be2c38.a38fb9d969.com
-  - +.b29b70e3ca.com
   - +.b347.pottsmerc.com
   - +.b395bfcd.xyz
   - +.b3c733588e.36dc612c23.com
@@ -8434,7 +8436,6 @@ payload:
   - +.boagleetsurvey.space
   - +.boahnoy.com
   - +.boannre.com
-  - +.boannred.com
   - +.boar.hopehollow.com
   - +.boar.indieweb.org
   - +.boar.kostholdsveilederen.no
@@ -10815,6 +10816,7 @@ payload:
   - +.clog.go.com
   - +.clog.lghv.net
   - +.clog.mirrativ.com
+  - +.clog.weverse.io
   - +.clogcheapen.com
   - +.clogstepfatherresource.com
   - +.clonesmesopic.com
@@ -11075,6 +11077,7 @@ payload:
   - +.collection-endpoint-prod.herokuapp.com
   - +.collection-endpoint-staging.herokuapp.com
   - +.collection.e-satisfaction.com
+  - +.collection.weverse.io
   - +.collectiveablygathering.com
   - +.collector-1.ex.co
   - +.collector-analytics.efigence.com
@@ -15223,6 +15226,7 @@ payload:
   - +.dsh7ky7308k4b.cloudfront.net
   - +.dshjbn.xyz
   - +.dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
+  - +.dsldtohkgc.com
   - +.dsnextgen.com
   - +.dsnymrk0k4p3v.cloudfront.net
   - +.dsoftzfile.click
@@ -19274,6 +19278,7 @@ payload:
   - +.gophykopta.com
   - +.goplayhere.com
   - +.gopusher1.com
+  - +.gopypteti.com
   - +.goraccohoaming.shop
   - +.goraps.com
   - +.gorclck.com
@@ -19781,6 +19786,7 @@ payload:
   - +.gxdzfyg.com
   - +.gxfh59u4.xyz
   - +.gxfiledownload.com
+  - +.gxiacapeptyos.club
   - +.gxjajt.com
   - +.gxnfz.com
   - +.gxordgtvjr.com
@@ -20385,6 +20391,7 @@ payload:
   - +.hindervoting.com
   - +.hindsight.significanceapps.com
   - +.hindsightchampagne.com
+  - +.hindsightloyalmeter.com
   - +.hingfruitiesma.info
   - +.hingleroofsge.org
   - +.hinkhimunpract.org
@@ -20850,7 +20857,6 @@ payload:
   - +.huntershoemaker.com
   - +.huntmad.com
   - +.huohuo.huamuwo.com
-  - +.hupot.site
   - +.huppontic.com
   - +.huqbeiy.com
   - +.hurdlesomehowpause.com
@@ -21452,6 +21458,7 @@ payload:
   - +.incloak.com
   - +.incloseinterest.com
   - +.incomebreatherpartner.com
+  - +.incoming.telemetry.mozilla.org
   - +.incomparable-pair.com
   - +.incompatibleconfederatepsychological.com
   - +.incompetencesorting.com
@@ -22009,6 +22016,7 @@ payload:
   - +.itweedler.com
   - +.itweepinbelltor.com
   - +.ityonatallco.info
+  - +.ityvsrlrfrlfdm.com
   - +.itzekromom.com
   - +.iudleaky.shop
   - +.iuou.myadobe.cn
@@ -22388,6 +22396,7 @@ payload:
   - +.jobeyeball.com
   - +.jobfilletfortitude.com
   - +.jobfukectivetr.com
+  - +.jobmkewkzwrkb.top
   - +.jobs.educationweekjobs.co.uk
   - +.jobsyndicate.com
   - +.jocauzee.net
@@ -23128,6 +23137,7 @@ payload:
   - +.kotwalpoet.top
   - +.kotzzdwl.com
   - +.kougredafooca.net
+  - +.kouhoadousuni.net
   - +.koukoku.red
   - +.kousjcignye.com
   - +.koutobey.net
@@ -23187,6 +23197,7 @@ payload:
   - +.ku42hjr2e.com
   - +.kubachigugal.com
   - +.kueezrtb.com
+  - +.kufturtewaist.com
   - +.kugmisawqo.com
   - +.kuhxhoanlf.com
   - +.kujbxpbphyca.com
@@ -25612,6 +25623,7 @@ payload:
   - +.messenger-notify.xyz
   - +.messengeridentifiers.com
   - +.messengerreinsomething.com
+  - +.messrsmaiidae.top
   - +.messsomehow.com
   - +.messyadvance.com
   - +.messyfuck.com
@@ -25651,6 +25663,7 @@ payload:
   - +.metrics-fe-na1.hubspot.com
   - +.metrics-logger.spot.im
   - +.metrics-prod.suno.com
+  - +.metrics-us.cometchat.io
   - +.metrics.ainews.kz
   - +.metrics.apartments.com
   - +.metrics.api.drift.com
@@ -26548,6 +26561,7 @@ payload:
   - +.mustang-browser.com
   - +.mustdealingfrustration.com
   - +.mustersvyrnwy.top
+  - +.mutatesuet.com
   - +.mutcheng.net
   - +.mutedsquare.com
   - +.mutenessdollyheadlong.com
@@ -26727,6 +26741,7 @@ payload:
   - +.n475.pilotonline.com
   - +.n49seircas7r.com
   - +.n4m5x60.com
+  - +.n4sredirect.com
   - +.n55cpw.vip
   - +.n55ylc001.vip
   - +.n69.com
@@ -27490,6 +27505,7 @@ payload:
   - +.nrbwzh.icu
   - +.nrc.tapas.net
   - +.nrcykmnukb.com
+  - +.nrdpfnpqunyle.rocks
   - +.nreg.world
   - +.nretholas.com
   - +.nrged.com
@@ -28237,6 +28253,7 @@ payload:
   - +.onfluencer.net
   - +.ongastlya.com
   - +.ongoingverdictparalyzed.com
+  - +.oniflhctfubuql.com
   - +.onkafxtiqcu.com
   - +.onkavst.com
   - +.onkhwanhuo.com
@@ -29618,6 +29635,7 @@ payload:
   - +.phoaphoxsurvey.space
   - +.phoasougrair.com
   - +.phoawhoax.com
+  - +.phobicaraban.com
   - +.phoceansteaks.top
   - +.phockukoagu.net
   - +.phoenix-adrunner.mycomputer.com
@@ -31145,6 +31163,7 @@ payload:
   - +.publicus.com
   - +.publipagos.com
   - +.publisherads.click
+  - +.publize.net
   - +.publpush.com
   - +.publyads.jstag.space
   - +.pubmatic.com
@@ -31423,6 +31442,7 @@ payload:
   - +.python.jukejuke.app
   - +.pywhepteto.pro
   - +.pywymyplyg.com
+  - +.pyxiscablese.com
   - +.pyxytj.icu
   - +.pzd.rakuten.co.jp
   - +.pzfqzv.xyz
@@ -32694,7 +32714,6 @@ payload:
   - +.revsharecash.com
   - +.revstats.com
   - +.revupads.com
-  - +.rewaawokwmjba.top
   - +.rewaawoyamvky.top
   - +.rewakenreaware.top
   - +.rewardjav128.fun
@@ -32966,6 +32985,7 @@ payload:
   - +.rofxiufqch.com
   - +.roger.aomg5bzv7.com
   - +.roguehideevening.com
+  - +.roharoagloh.net
   - +.roia.biz
   - +.roikingdom.com
   - +.roinduk.com
@@ -32974,6 +32994,7 @@ payload:
   - +.rokymedia.com
   - +.roledale.com
   - +.rollbackpop.com
+  - +.rolleychacker.top
   - +.rollingwolvesforthcoming.com
   - +.rollserver.xyz
   - +.rolzqwm.com
@@ -37783,7 +37804,6 @@ payload:
   - +.telemetry.goodlifefitness.com
   - +.telemetry.jivosite.com
   - +.telemetry.malwarebytes.com
-  - +.telemetry.mozilla.org
   - +.telemetry.navigatorapp.net
   - +.telemetry.phenixrts.com
   - +.telemetry.reembed.com
@@ -37855,7 +37875,6 @@ payload:
   - +.terribledeliberate.com
   - +.terrificdark.com
   - +.terrifyingcovert.com
-  - +.tertiidamsite.com
   - +.tertracks.site
   - +.teslaamg.obs.cn-east-3.myhuaweicloud.com
   - +.teslcorp.xyz
@@ -37985,6 +38004,7 @@ payload:
   - +.theloungenet.com
   - +.themeillogical.com
   - +.themeulterior.com
+  - +.thempoorduts.com
   - +.themselphenyls.com
   - +.themselvessuit.com
   - +.thenceafeard.com
@@ -38034,6 +38054,7 @@ payload:
   - +.thickshortwage.com
   - +.thickspaghetti.com
   - +.thickstatements.com
+  - +.thidraimistah.com
   - +.thiefperpetrate.com
   - +.thighleopard.com
   - +.thikraik.net
@@ -38670,6 +38691,7 @@ payload:
   - +.tq.uclpointer.online
   - +.tqaiowbyilodx.com
   - +.tqbrnd.xyz
+  - +.tqjojh.icu
   - +.tqlqfhmvainmn.one
   - +.tqnupxrwvo.com
   - +.tqrgivpfygemxft.com
@@ -41663,6 +41685,7 @@ payload:
   - +.webpush.vn
   - +.webpushcloud.info
   - +.webpushdirect.biz
+  - +.webpushstat.api.engagelab.cc
   - +.webreseau.com
   - +.webscouldlearnof.info
   - +.websdk.appsflyer.com
@@ -42529,6 +42552,7 @@ payload:
   - +.xaea12play.xyz
   - +.xahttwmfmyji.com
   - +.xajibur.ru
+  - +.xalawpqfa.com
   - +.xalienstreamx.com
   - +.xameleonads.com
   - +.xamssp.icu
@@ -43527,6 +43551,7 @@ payload:
   - +.ywpdobsvqlchvrl.com
   - +.ywronwasthetron.com
   - +.ywusfyjhnpflr.top
+  - +.ywzgjfgx.com
   - +.yx-ads6.com
   - +.yxhouwezb.site
   - +.yxkbgg.xyz
@@ -43816,6 +43841,7 @@ payload:
   - +.zoowunagraglu.net
   - +.zoozishooh.com
   - +.zorango.com
+  - +.zordaustewhoh.com
   - +.zosemien.sk
   - +.zougreek.com
   - +.zouloafi.net
@@ -43856,6 +43882,7 @@ payload:
   - +.zszhfffyd.ru
   - +.zt.me.zing.vn
   - +.zt1.me.zing.vn
+  - +.ztdbfz.top
   - +.ztdog.com
   - +.ztevents.zaloapp.com
   - +.ztlcrzmjshgfc.one
