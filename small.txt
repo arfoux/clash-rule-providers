@@ -1,9 +1,9 @@
-# Version: 202603100111
+# Version: 202603100608
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 49953
-# Last modified: 2026-03-10T01:11:55+0000
+# Entries: 49955
+# Last modified: 2026-03-10T06:08:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10507,6 +10507,7 @@ payload:
   - +.click-eu-v4.exclk.com
   - +.click-eu-v4.exmnclk.com
   - +.click-eu-v4.exoclkneu.com
+  - +.click-eu-v4.expmclck.com
   - +.click-eu-v4.expmidclk.com
   - +.click-eu-v4.exppxxclck.com
   - +.click-eu-v4.plarclck.com
@@ -10531,6 +10532,7 @@ payload:
   - +.click-v4.exmnclk.com
   - +.click-v4.exoclkneu.com
   - +.click-v4.explodnmainclck.com
+  - +.click-v4.expmclck.com
   - +.click-v4.expmidclk.com
   - +.click-v4.exppxxclck.com
   - +.click-v4.fidmkrclk.com
@@ -10556,6 +10558,7 @@ payload:
   - +.click.exclk.com
   - +.click.exmnclk.com
   - +.click.exoclkneu.com
+  - +.click.expmclck.com
   - +.click.expmidclk.com
   - +.click.exppxxclck.com
   - +.click.fool.com
@@ -17377,7 +17380,6 @@ payload:
   - +.explorads.com
   - +.explorerapiecebachelor.com
   - +.explorerippledisperse.com
-  - +.expmclck.com
   - +.expmnclick.com
   - +.expoclknu.com
   - +.expocrack.com
